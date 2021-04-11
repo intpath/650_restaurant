@@ -7,3 +7,8 @@
 	path = intpath/six_fifty_reports
 	url = git@github.com:intpath/six_fifty_reports.git
 	branch = master
+
+[submodule "intpath/pos_credit_payment"]
+	path = intpath/pos_credit_payment
+	url = git@github.com:intpath/pos_credit_payment.git
+	branch = master
