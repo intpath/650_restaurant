@@ -12,3 +12,8 @@
 	path = intpath/pos_credit_payment
 	url = git@github.com:intpath/pos_credit_payment.git
 	branch = master
+
+[submodule "intpath/sh_print_journal_entries"]
+	path = intpath/sh_print_journal_entries
+	url = git@github.com:intpath/sh_print_journal_entries.git
+	branch = master
